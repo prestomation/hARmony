@@ -1,2 +1,6 @@
-export const foo = "bar";
-export const spam = "eggs"; 
+import { chord } from "tonal-detector";
+
+export const harmony = {
+    chord 
+};
+
